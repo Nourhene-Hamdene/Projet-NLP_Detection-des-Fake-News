@@ -1,4 +1,4 @@
-# Projet-NLP_Detection-des-Fake-News
+# Projet NLP: Detection des Fake News
 
 # 1. Introduction
 Dans un monde où les réseaux sociaux jouent un rôle central dans la diffusion de l'actualité et où l'accès à l'information est de plus en plus rapide, la propagation de fausses informations représente un défi majeur. Les fake news, souvent créées dans le but de tromper le public, peuvent avoir des répercussions graves sur la société. La désinformation peut influencer les opinions, semer la confusion, et même menacer la stabilité sociale et politique. Ainsi, la détection de fake news est devenue une priorité afin de garantir l'intégrité de l'information et de préserver la confiance du public dans les sources d'actualités.
