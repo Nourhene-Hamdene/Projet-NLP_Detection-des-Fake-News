@@ -10,7 +10,9 @@ Les principales questions qui se posent à ce sujet comprennent :
 Dans notre projet, on a répondu à ces questions en fournissant des recommandations pratiques pour renforcer la détection de fake news dans un environnement d'information en constante évolution.
 
 # 3. Modèles Utilisés
+# Bert:
 En premier lieu , on a initialement opté pour l'utilisation du modèle Bert (Bidirectional Encoder Representations from Transformers) précisément l’architecture de modèle basée sur lui, BertForSequenceClassification, qui est pré-entraîné pour la classification de séquences afin de générer un des résumés des articles de notre base de données.
+# T5:
 Cependant, après avoir évalué les résultats obtenus, nous avons constaté que cette approche ne satisfaisait pas nos exigences en termes de génération de résumés. En réponse à cela, nous avons décidé d'adopter une nouvelle approche en emplaçant le modèle BERT par le modèle T5 (Text-To-Text Transfer Transformer). Cette transition vers le modèle T5 vise à améliorer l'efficacité et la pertinence de notre travail dans le domaine de la détection de fake news.
 En deuxième lieu, pour la détection de fake news, nous avons opté pour l'utilisation de deux modèles : RoBERTa (Robustly optimized BERT approach) et Mistral.
 # RoBERTa (Robustly optimized BERT approach):
